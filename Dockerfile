@@ -1,4 +1,4 @@
-FROM openjdk:15-jdk
+FROM openjdk:15-alpine
 
 RUN apk add wget
 
